@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.backImg{
+    width: 100%;
+    height: 100vh;
+    /*background-color: rgb(80, 249, 255);*/
+    background-image: url(rose.jpg);
+    background-repeat:no-repeat;
+    background-size: 100% 100% ;
+   /* background-size: cover;*/
+   background-attachment: fixed;
+}
+
+.paragraph{
+    font-size: 30px;
+    background-color: coral;
+}
+
+.backImg2{
+    width: 100%;
+    height: 100vh;
+    /*background-color: rgb(80, 249, 255);*/
+    background-image: url(rose2.jpg);
+    background-repeat:no-repeat;
+    background-size: 100% 100% ;
+   /* background-size: cover;*/
+   background-attachment: fixed;
+
+}
+
+/*.fontcss{
+    font-family: 'Inconsolata', monospace;
+    font-size: 60px;
+    font-variant:small-caps;
+    font-size: 10em;
+    font-style: initial;
+    font-weight: bold;
+}*/
+
+/*.textcss{
+    color: lawngreen;
+    letter-spacing: 5px;
+    word-spacing: 30px;
+    direction: ltr;
+    text-indent: 50px;
+    text-align:center;
+    text-transform: lowercase;
+}
+*/
+/*a:link{
+    color:red;
+}
+a:hover{
+    color:yellow;
+}
+a:active{
+    color: tomato;
+}
+a:visited{
+    color: green;
+}*/
+ 
